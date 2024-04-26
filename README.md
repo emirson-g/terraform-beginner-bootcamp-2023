@@ -22,3 +22,14 @@ https://en.wikipedia.org/wiki/Shebang_(Unix)
 
 ### Gitpod Workspaces
 https://www.gitpod.io/docs/configure/workspaces/tasks
+
+### Terraform Basic
+
+## Terraform Registry
+
+Terraform sources their providers and modules from the Terraform registry which located at [registry.terraform.io](https://registry.terraform.io)
+
+- **Providers** is an interface to APIs that will allow to create resources in terraform.
+- **Modules** are a way to make large amount of terraform code modular, portble and sharable
+
+### Add S3 Bucket with random bucket name
